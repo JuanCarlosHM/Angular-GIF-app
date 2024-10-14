@@ -18,7 +18,7 @@ GifsApp es una aplicación desarrollada en Angular que permite buscar y visualiz
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/gifsApp.git
+   git clone https://github.com/JuanCarlosHM/gifsApp.git
    ```
 
 2. Navega al directorio del proyecto:
